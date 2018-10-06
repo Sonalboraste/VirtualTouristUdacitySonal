@@ -15,6 +15,7 @@ class TravelLocationsMapViewController: UIViewController,MKMapViewDelegate
     
     override func viewDidLoad()
     {
+        //Testing
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
